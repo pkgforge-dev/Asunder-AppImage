@@ -13,6 +13,7 @@ export DESKTOP=/usr/share/applications/asunder.desktop
 
 # Deploy dependencies
 quick-sharun /usr/bin/asunder \
+  /usr/bin/cdparanoia \
   /usr/bin/fdkaac \
   /usr/bin/flac \
   /usr/bin/mac \
