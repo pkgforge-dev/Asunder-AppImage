@@ -20,7 +20,8 @@ quick-sharun /usr/bin/asunder \
   /usr/bin/mpcenc \
   /usr/bin/oggenc \
   /usr/bin/opusenc \
-  /usr/bin/wavpack
+  /usr/bin/wavpack \
+  /usr/lib/libcdda*.so*
 
 # Additional changes can be done in between here
 
