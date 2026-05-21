@@ -12,7 +12,13 @@ export ICON=/usr/share/pixmaps/asunder.svg
 export DESKTOP=/usr/share/applications/asunder.desktop
 
 # Deploy dependencies
-quick-sharun /usr/bin/asunder
+quick-sharun /usr/bin/asunder \
+  /usr/bin/fdkaac \
+  /usr/bin/flac \
+  /usr/bin/mac \
+  /usr/bin/oggenc \
+  /usr/bin/opusenc \
+  /usr/bin/wavpack
 
 # Additional changes can be done in between here
 
