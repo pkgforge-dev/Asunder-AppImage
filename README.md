@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Asunder-AppImage)](https://github.com/pkgforge-dev/Asunder-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://dl.flathub.org/media/ca/littlesvr/asunder/142f87622a1da3f59f502dbef32caadf/icons/128x128@2/ca.littlesvr.asunder.png" width="128" />
 </p>
 
 
