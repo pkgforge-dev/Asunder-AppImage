@@ -16,6 +16,7 @@ quick-sharun /usr/bin/asunder \
   /usr/bin/fdkaac \
   /usr/bin/flac \
   /usr/bin/mac \
+  /usr/bin/mpcenc \
   /usr/bin/oggenc \
   /usr/bin/opusenc \
   /usr/bin/wavpack
