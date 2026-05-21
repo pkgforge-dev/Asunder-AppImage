@@ -8,8 +8,6 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     fdkaac         \
-    flac           \
-    lame           \
     mac            \
     musepack-tools \
     opus-tools     \
