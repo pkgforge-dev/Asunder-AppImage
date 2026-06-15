@@ -16,10 +16,9 @@ pacman -Syu --noconfirm \
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
-get-debloated-pkgs --add-common --prefer-nano
+get-debloated-pkgs --add-common --prefer-nano gtk2-mini
 
 # Comment this out if you need an AUR package
-make-aur-package gtk2
 make-aur-package asunder
 
 # If the application needs to be manually built that has to be done down here
